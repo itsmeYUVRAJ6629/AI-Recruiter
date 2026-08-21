@@ -217,8 +217,7 @@ Experience with DevOps and CI/CD pipelines using GitHub Actions."
 ```
 
 ---
-![AI Recruiter Main Interface](Screenshot%202026-08-21%20185409.png)
-![AI Recruiter Results](Screenshot%202026-08-21%20185416.png)
+
 
 ## 📋 Requirements
 
