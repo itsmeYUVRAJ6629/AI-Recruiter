@@ -167,10 +167,7 @@ AI-Recruiter/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Project dependencies
 ├── README.md             # Project documentation
-└── data/
-    ├── skills.txt        # Predefined skills list
-    ├── technologies.txt  # Predefined technologies list
-    └── languages.txt     # Predefined programming languages list
+└──main.py
 ```
 
 ---
@@ -201,9 +198,8 @@ AI-Recruiter/
 ### Using the Web Interface
 1. Open the Streamlit application
 2. Paste or type candidate information
-3. Click "Extract Information"
+3. Click "Analyze Candidate"
 4. View extracted skills, technologies, and languages
-5. Download JSON output if needed
 
 ### Sample Inputs
 ```
