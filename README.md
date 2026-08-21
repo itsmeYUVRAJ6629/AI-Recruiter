@@ -251,25 +251,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
 
-## ❓ FAQ
-
-**Q: What file formats are supported?**
-A: Currently, the tool accepts text input. PDF and document support is planned for future releases.
-
-**Q: Can I use this for production?**
-A: Yes, but consider expanding the keyword lists and implementing the planned ML-based approach for better accuracy.
-
-**Q: How accurate is the extraction?**
-A: The rule-based approach works well for common skills and technologies. Accuracy improves with a larger keyword database.
-
----
-
-## 📧 Support
-
-For questions or issues, please open a GitHub issue or contact the author.
-
----
 
 **Happy Recruiting! 🎉**
