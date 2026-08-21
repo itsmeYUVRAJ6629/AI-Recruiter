@@ -6,7 +6,7 @@
 
 ## 📋 Project Overview
 
-**AI Recruiter** is an intelligent CV/Resume analyzer tool that automatically extracts key information from candidate descriptions. It identifies and categorizes:
+**AI Recruiter** is an conversational input tool that automatically extracts key information from candidate descriptions. It identifies and categorizes:
 
 - **Skills** - Soft and technical skills
 - **Technologies** - Frameworks, tools, and platforms
